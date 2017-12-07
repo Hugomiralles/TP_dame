@@ -1,0 +1,18 @@
+﻿La génération a démarré 07/12/2017 12:10:35.
+     1>Projet "Z:\Projet_dame\TP_dame\gtest\Dame\Dame.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"Z:\googletest-master\googletest" /I"Z:\googletest-master\googletest\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VARIADIC_MAX=10 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Dame.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Dame.cpp Plateau.cpp
+         Plateau.cpp
+     1>z:\projet_dame\tp_dame\gtest\dame\plateau.cpp(2): warning C4627: '#include "Plateau.h"' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>z:\projet_dame\tp_dame\gtest\dame\plateau.cpp(157): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+         Dame.cpp
+     1>z:\projet_dame\tp_dame\gtest\dame\dame.cpp(3): warning C4627: '#include "Plateau.h"' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>z:\projet_dame\tp_dame\gtest\dame\dame.cpp(15): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+         Génération de code en cours...
+     1>Génération du projet "Z:\Projet_dame\TP_dame\gtest\Dame\Dame.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.10

@@ -1,0 +1,11 @@
+﻿La génération a démarré 07/12/2017 09:48:18.
+     1>Projet "Z:\Projet_dame\TP_dame\gtest\gtest\gtest.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"Z:\Projet_dame\TP_dame\gtest\Debug\gtest.lib" /NOLOGO "Debug\gtest-all.obj"
+         Debug\gtest_main.obj
+         gtest.vcxproj -> Z:\Projet_dame\TP_dame\gtest\Debug\gtest.lib
+     1>Génération du projet "Z:\Projet_dame\TP_dame\gtest\gtest\gtest.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.12
